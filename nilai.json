@@ -1,0 +1,32 @@
+[
+    {
+        "Nama": "Lily",
+        "NIM": "26091",
+        "Mata Kuliah": "DDP",
+        "Nilai": 100
+    },
+    {
+        "Nama": "Aurel",
+        "NIM": "26092",
+        "Mata Kuliah": "PTI",
+        "Nilai": 95
+    },
+    {
+        "Nama": "Diana",
+        "NIM": "26093",
+        "Mata Kuliah": "KSI",
+        "Nilai": 90
+    },
+    {
+        "Nama": "Bintan",
+        "NIM": "26094",
+        "Mata Kuliah": " mtk diskrit",
+        "Nilai": 99
+    },
+    {
+        "Nama": "Lily kyut",
+        "NIM": "26095",
+        "Mata Kuliah": "english",
+        "Nilai": 100
+    }
+]
